@@ -1,3 +1,5 @@
+%******WRITTEN BY ANDREAS WULFF-ABRAMSSON*****
+
 %statistics on all subs 
 % HR Data
 
