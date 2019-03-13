@@ -1,3 +1,5 @@
+%******WRITTEN BY ANDREAS WULFF-ABRAMSSON*****
+
 %This is the second script to run when analyzing Empatica Data 
 
 %*****************************************'''
