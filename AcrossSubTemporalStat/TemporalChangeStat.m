@@ -1,3 +1,5 @@
+%******WRITTEN BY ANDREAS WULFF-ABRAMSSON*****
+
 % finding the general tendency in the data. 
 % the change from start to end 
 % how much change for every 30sec = 120 sample 
