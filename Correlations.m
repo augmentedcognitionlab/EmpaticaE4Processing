@@ -1,3 +1,5 @@
+%******WRITTEN BY ANDREAS WULFF-ABRAMSSON*****
+
 %Correlations accross all participants 
 %Within all the conditions and scenarios 
 totDataWBase = [AllSubEDANormWhiteBaseColumn, AllSubHRNormWhiteBaseColumn, AllSubACCNormWhiteBaseColumn...
