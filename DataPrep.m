@@ -1,3 +1,5 @@
+%******WRITTEN BY ANDREAS WULFF-ABRAMSSON*****
+
 % for empatica data analysis this is the first script to run. 
 % To run this code you need the following from the empatica 
 % the start timestamp from EDA 
