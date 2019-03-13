@@ -1,3 +1,5 @@
+%******WRITTEN BY ANDREAS WULFF-ABRAMSSON*****
+
 %Acc extract gravity 
 function [AC] = AccExtractGravity
 AC = importdata('ACC.csv');
